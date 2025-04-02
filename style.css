@@ -7,7 +7,7 @@ body, h1, h2, ul, li, p {
 
 body {
     font-family: Arial, sans-serif;
-    background-image: url('montainha.jpg'); /* Ajuste a imagem de fundo */
+    background-color: #c4b5a7;
     background-size: cover;
     background-position: center;
     min-height: 100vh;
