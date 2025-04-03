@@ -91,7 +91,7 @@
       /* Agora ocupa 100% de largura */
       width: 100
       /* Remove max-width e margin auto */
-      padding: 20px;
+      padding 20px;
       /* Para demonstrar que é a área principal, manteremos um fundo claro */
       background-color: #fefdfb;
       min-height: calc(110vh - 70px); 
